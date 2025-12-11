@@ -1,0 +1,1470 @@
+2025-12-10T23:00:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:00:00.051Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-10T23:00:00.051Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"aa5143bf-9e02-49b5-ad6d-6ad81dc2938f"}
+2025-12-10T23:00:00.053Z [info][Jobs]: Starting scheduled job: Jellyfin Full Scan 
+2025-12-10T23:00:00.053Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"99dccabf-7a46-4385-8d47-1ab8f9f60cee"}
+2025-12-10T23:00:00.054Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-10T23:00:00.055Z [info][Jellyfin Sync]: Beginning to process library: Movies 
+2025-12-10T23:00:00.148Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-10T23:00:00.166Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-10T23:00:00.166Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-10T23:00:00.167Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-10T23:00:04.169Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-10T23:00:04.171Z [info][Jellyfin Sync]: Beginning to process library: Shows 
+2025-12-10T23:00:04.271Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-10T23:00:04.276Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-10T23:00:04.281Z [debug][Jellyfin Sync]: Updating existing title: Stranger Things 
+2025-12-10T23:00:04.285Z [debug][Jellyfin Sync]: Updating existing title: The Amazing World of Gumball 
+2025-12-10T23:00:08.273Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-10T23:00:08.285Z [info][Jellyfin Sync]: Full Scan Complete 
+2025-12-10T23:01:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:02:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:03:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:04:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:05:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:05:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-10T23:05:00.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"3a00ae43-98a0-433a-966c-fc9fc016c143"}
+2025-12-10T23:05:00.011Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-10T23:05:00.029Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-10T23:05:00.030Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-10T23:05:04.033Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-10T23:05:04.088Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-10T23:05:08.091Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-10T23:06:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:07:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:08:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:09:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:10:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:10:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-10T23:10:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"69d4deeb-0bcd-4433-8c70-460497c8fdf0"}
+2025-12-10T23:10:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-10T23:10:00.114Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-10T23:10:00.114Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-10T23:10:04.118Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-10T23:10:04.158Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-10T23:10:08.160Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-10T23:11:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:12:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:13:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:14:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:15:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:15:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-10T23:15:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"f6527e34-7627-45af-aecd-82c544be96ee"}
+2025-12-10T23:15:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-10T23:15:00.022Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-10T23:15:00.023Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-10T23:15:04.025Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-10T23:15:04.097Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-10T23:15:08.099Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-10T23:16:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:17:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:18:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:19:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:20:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:20:00.005Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-10T23:20:00.005Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"7f0e19ae-5349-40c4-913a-45c8c7c94a29"}
+2025-12-10T23:20:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-10T23:20:00.103Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-10T23:20:00.103Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-10T23:20:04.103Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-10T23:20:04.147Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-10T23:20:08.150Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-10T23:21:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:22:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:23:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:24:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:25:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:25:00.005Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-10T23:25:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"6cacad9a-2be9-4d6e-80ef-c343bee90142"}
+2025-12-10T23:25:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-10T23:25:00.020Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-10T23:25:00.021Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-10T23:25:04.024Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-10T23:25:04.077Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-10T23:25:08.080Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-10T23:26:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:27:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:28:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:29:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:30:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:30:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-10T23:30:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"d38a181f-74d9-4a2f-84d8-c5300fbf9b91"}
+2025-12-10T23:30:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-10T23:30:00.105Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-10T23:30:00.125Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-10T23:30:04.129Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-10T23:30:04.171Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-10T23:30:08.172Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-10T23:31:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:32:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:33:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:34:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:35:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:35:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-10T23:35:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"6dd2ff47-b44d-4b1e-8971-fd36d96ec886"}
+2025-12-10T23:35:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-10T23:35:00.020Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-10T23:35:00.021Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-10T23:35:04.025Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-10T23:35:04.100Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-10T23:35:08.102Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-10T23:36:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:37:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:38:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:39:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:40:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:40:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-10T23:40:00.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"3871e801-b3d0-428e-9780-c13e8b9cb39c"}
+2025-12-10T23:40:00.009Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-10T23:40:00.125Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-10T23:40:00.126Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-10T23:40:04.128Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-10T23:40:04.172Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-10T23:40:08.173Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-10T23:41:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:42:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:43:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:44:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:45:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:45:00.002Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-10T23:45:00.002Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"b871e86e-f9c0-4107-a5b0-d58ce50c0392"}
+2025-12-10T23:45:00.004Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-10T23:45:00.017Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-10T23:45:00.018Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-10T23:45:04.021Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-10T23:45:04.075Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-10T23:45:08.077Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-10T23:46:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:47:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:48:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:49:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:50:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:50:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-10T23:50:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"0fcbb8c9-ec4b-48ca-a5ac-4fe669f73c7f"}
+2025-12-10T23:50:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-10T23:50:00.102Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-10T23:50:00.106Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-10T23:50:04.110Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-10T23:50:04.159Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-10T23:50:08.161Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-10T23:51:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:52:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:53:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:54:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:55:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:55:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-10T23:55:00.009Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"44378bf8-eb47-4dfe-b642-4021e815171a"}
+2025-12-10T23:55:00.014Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-10T23:55:00.035Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-10T23:55:00.035Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-10T23:55:04.039Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-10T23:55:04.121Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-10T23:55:08.123Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-10T23:56:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:57:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:58:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-10T23:59:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:00:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:00:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T00:00:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"3d2e2b53-3641-4c28-81cc-327d93a652d7"}
+2025-12-11T00:00:00.008Z [info][Jobs]: Starting scheduled job: Download Sync Reset 
+2025-12-11T00:00:00.010Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T00:00:00.115Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T00:00:00.115Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T00:00:04.119Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T00:00:04.161Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T00:00:08.162Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T00:01:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:02:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:03:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:04:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:05:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:05:00.005Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T00:05:00.005Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"6e242b9a-6585-4faf-a3e9-0494f617738a"}
+2025-12-11T00:05:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T00:05:00.020Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T00:05:00.020Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T00:05:04.023Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T00:05:04.067Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T00:05:08.069Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T00:06:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:07:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:08:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:09:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:10:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:10:00.005Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T00:10:00.005Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"64507a1d-0799-46d6-b36e-0d0ea7ca9ac8"}
+2025-12-11T00:10:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T00:10:00.101Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T00:10:00.102Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T00:10:04.106Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T00:10:04.148Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T00:10:08.150Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T00:11:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:12:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:13:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:14:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:15:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:15:00.005Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T00:15:00.005Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"e5979a08-a0cd-4c2a-aca0-36815dbc9947"}
+2025-12-11T00:15:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T00:15:00.019Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T00:15:00.019Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T00:15:04.022Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T00:15:04.075Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T00:15:08.078Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T00:16:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:17:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:18:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:19:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:20:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:20:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T00:20:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"d8f63db3-5a5f-4dd8-8861-88d6d557767a"}
+2025-12-11T00:20:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T00:20:00.090Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T00:20:00.110Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T00:20:04.114Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T00:20:04.159Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T00:20:08.161Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T00:21:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:22:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:23:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:24:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:25:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:25:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T00:25:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"4a9df72f-7cb5-4f60-9323-25f49dc7a8f8"}
+2025-12-11T00:25:00.009Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T00:25:00.026Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T00:25:00.027Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T00:25:04.030Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T00:25:04.090Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T00:25:08.092Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T00:26:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:27:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:28:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:29:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:30:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:30:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T00:30:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"fc2887b5-39eb-42c2-8122-b064e4b7c2d6"}
+2025-12-11T00:30:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T00:30:00.115Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T00:30:00.134Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T00:30:04.137Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T00:30:04.177Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T00:30:08.179Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T00:31:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:32:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:33:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:34:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:35:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:35:00.003Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T00:35:00.003Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"ca5bfb8f-0572-467e-b12a-3d755bb9ca5e"}
+2025-12-11T00:35:00.004Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T00:35:00.020Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T00:35:00.020Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T00:35:04.023Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T00:35:04.085Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T00:35:08.087Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T00:36:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:37:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:38:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:39:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:40:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:40:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T00:40:00.008Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"3f27778e-f823-43e1-815b-dfcd42aa3e13"}
+2025-12-11T00:40:00.011Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T00:40:00.119Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T00:40:00.120Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T00:40:04.122Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T00:40:04.170Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T00:40:08.172Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T00:41:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:42:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:43:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:44:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:45:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:45:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T00:45:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"b373d894-c39e-424b-9822-d22b1348695d"}
+2025-12-11T00:45:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T00:45:00.020Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T00:45:00.021Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T00:45:04.024Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T00:45:04.104Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T00:45:08.107Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T00:46:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:47:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:48:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:49:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:50:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:50:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T00:50:00.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"76ea1228-a642-4035-be2e-55008c76210e"}
+2025-12-11T00:50:00.010Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T00:50:00.135Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T00:50:00.135Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T00:50:04.136Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T00:50:04.211Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T00:50:08.212Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T00:51:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:52:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:53:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:54:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:55:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:55:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T00:55:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"57662e3e-a809-4b6d-afb1-2d3b5ad3f28e"}
+2025-12-11T00:55:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T00:55:00.021Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T00:55:00.022Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T00:55:04.023Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T00:55:04.063Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T00:55:08.065Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T00:56:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:57:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:58:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T00:59:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:00:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:00:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T01:00:00.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"1653e029-daab-4c5d-a615-6ddba548d7b2"}
+2025-12-11T01:00:00.009Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T01:00:00.155Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T01:00:00.166Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T01:00:04.168Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T01:00:04.214Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T01:00:08.216Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T01:01:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:02:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:03:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:04:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:05:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:05:00.028Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T01:05:00.028Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"3f2ab5ce-8579-4520-85d9-d4247617a942"}
+2025-12-11T01:05:00.029Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T01:05:00.042Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T01:05:00.043Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T01:05:04.046Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T01:05:04.104Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T01:05:08.105Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T01:06:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:07:00.029Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:08:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:09:00.029Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:10:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:10:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T01:10:00.008Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"9ef9be4e-9a87-4ab3-9658-ce51fc34a7b2"}
+2025-12-11T01:10:00.009Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T01:10:00.091Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T01:10:00.103Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T01:10:04.105Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T01:10:04.161Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T01:10:08.163Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T01:11:00.029Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:12:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:13:00.029Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:14:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:15:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:15:00.028Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T01:15:00.028Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"df038cd0-3b3b-4c16-a08e-801a59f2c042"}
+2025-12-11T01:15:00.029Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T01:15:00.042Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T01:15:00.043Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T01:15:04.044Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T01:15:04.114Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T01:15:08.115Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T01:16:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:17:00.028Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:18:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:19:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:20:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:20:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T01:20:00.008Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"6aa414cc-56f8-4fbc-9062-4811be3f5bc6"}
+2025-12-11T01:20:00.009Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T01:20:00.093Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T01:20:00.103Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T01:20:04.104Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T01:20:04.153Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T01:20:08.155Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T01:21:00.029Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:22:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:23:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:24:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:25:00.028Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:25:00.028Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T01:25:00.029Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"498cb991-cf81-47a3-83d0-d7b139203f5d"}
+2025-12-11T01:25:00.030Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T01:25:00.042Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T01:25:00.042Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T01:25:04.044Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T01:25:04.110Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T01:25:08.112Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T01:26:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:27:00.028Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:28:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:29:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:30:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:30:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T01:30:00.008Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"906f46ce-8f6d-490d-bbdc-ab2bc1ed2b9b"}
+2025-12-11T01:30:00.009Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T01:30:00.115Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T01:30:00.115Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T01:30:04.117Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T01:30:04.167Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T01:30:08.169Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T01:31:00.029Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:32:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:33:00.028Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:34:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:35:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:35:00.028Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T01:35:00.028Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"c4a39e4a-6313-4ad5-b855-5e3168232d75"}
+2025-12-11T01:35:00.029Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T01:35:00.042Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T01:35:00.042Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T01:35:04.043Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T01:35:04.085Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T01:35:08.086Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T01:36:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:37:00.028Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:38:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:39:00.028Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:40:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:40:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T01:40:00.008Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"96cf73c3-1d81-40fc-a2b0-1f8374843bec"}
+2025-12-11T01:40:00.010Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T01:40:00.108Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T01:40:00.109Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T01:40:04.110Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T01:40:04.163Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T01:40:08.165Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T01:41:00.028Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:42:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:43:00.028Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:44:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:45:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:45:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T01:45:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"97288458-3058-4f6a-801e-03a14482bf9b"}
+2025-12-11T01:45:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T01:45:00.020Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T01:45:00.020Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T01:45:04.021Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T01:45:04.079Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T01:45:08.081Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T01:46:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:47:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:48:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:49:00.028Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:50:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:50:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T01:50:00.008Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"c05fe89d-a34e-4765-a735-b58d7f746c07"}
+2025-12-11T01:50:00.009Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T01:50:00.112Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T01:50:00.113Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T01:50:04.113Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T01:50:04.162Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T01:50:08.164Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T01:51:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:52:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:53:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:54:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:55:00.028Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:55:00.029Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T01:55:00.029Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"f423e7a9-7a8f-4001-aeed-569cb4da2dee"}
+2025-12-11T01:55:00.030Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T01:55:00.040Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T01:55:00.043Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T01:55:04.045Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T01:55:04.102Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T01:55:08.103Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T01:56:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:57:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:58:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T01:59:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:00:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:00:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T02:00:00.008Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"f26720a4-d9e2-4cf7-8c4f-f5777546faad"}
+2025-12-11T02:00:00.009Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T02:00:00.152Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T02:00:00.160Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T02:00:04.162Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T02:00:04.229Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T02:00:08.231Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T02:01:00.028Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:02:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:03:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:04:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:05:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:05:00.016Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T02:05:00.016Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"fa2ed926-333a-4014-b044-3db2a224d074"}
+2025-12-11T02:05:00.018Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T02:05:00.032Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T02:05:00.032Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T02:05:04.033Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T02:05:04.077Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T02:05:08.079Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T02:06:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:07:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:08:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:09:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:10:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:10:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T02:10:00.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"c5f611bf-8931-4b61-b812-2ccdcf91d90a"}
+2025-12-11T02:10:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T02:10:00.103Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T02:10:00.104Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T02:10:04.105Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T02:10:04.153Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T02:10:08.154Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T02:11:00.028Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:12:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:13:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:14:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:15:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:15:00.027Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T02:15:00.027Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"b6d8d5af-1ae3-4893-b2d8-658cdbfd542b"}
+2025-12-11T02:15:00.029Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T02:15:00.041Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T02:15:00.041Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T02:15:04.042Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T02:15:04.079Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T02:15:08.080Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T02:16:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:17:00.028Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:18:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:19:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:20:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:20:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T02:20:00.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"75107a07-26fa-441d-8a90-e8c2a870ebbd"}
+2025-12-11T02:20:00.009Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T02:20:00.111Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T02:20:00.112Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T02:20:04.112Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T02:20:04.157Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T02:20:08.159Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T02:21:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:22:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:23:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:24:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:25:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:25:00.029Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T02:25:00.029Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"936172e1-031e-436f-8298-522352ea0f15"}
+2025-12-11T02:25:00.030Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T02:25:00.043Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T02:25:00.043Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T02:25:04.044Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T02:25:04.101Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T02:25:08.103Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T02:26:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:27:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:28:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:29:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:30:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:30:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T02:30:00.008Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"751f588c-cfc1-489f-8a65-2f0cc54f74fb"}
+2025-12-11T02:30:00.009Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T02:30:00.144Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T02:30:00.144Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T02:30:04.145Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T02:30:04.195Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T02:30:08.197Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T02:31:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:32:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:33:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:34:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:35:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:35:00.027Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T02:35:00.028Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"f1035f82-5c80-4f78-a569-2c25fd0506b5"}
+2025-12-11T02:35:00.029Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T02:35:00.042Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T02:35:00.043Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T02:35:04.044Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T02:35:04.115Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T02:35:08.116Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T02:36:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:37:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:38:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:39:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:40:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:40:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T02:40:00.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"b552507d-4913-40c0-92e7-b886534c2d6b"}
+2025-12-11T02:40:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T02:40:00.095Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T02:40:00.106Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T02:40:04.108Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T02:40:04.167Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T02:40:08.169Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T02:41:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:42:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:43:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:44:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:45:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:45:00.027Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T02:45:00.027Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"d4dfa32a-2804-4bbc-adde-2cd3fbcee7ea"}
+2025-12-11T02:45:00.029Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T02:45:00.043Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T02:45:00.050Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T02:45:04.053Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T02:45:04.127Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T02:45:08.129Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T02:46:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:47:00.028Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:48:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:49:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:50:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:50:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T02:50:00.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"494ef2bc-b60a-499e-8fad-234b5a924121"}
+2025-12-11T02:50:00.009Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T02:50:00.083Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T02:50:00.097Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T02:50:04.099Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T02:50:04.152Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T02:50:08.154Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T02:51:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:52:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:53:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:54:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:55:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:55:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T02:55:00.008Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"7dede0eb-0f0c-4e0c-b3ea-5d2be835431c"}
+2025-12-11T02:55:00.010Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T02:55:00.029Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T02:55:00.033Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T02:55:04.036Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T02:55:04.107Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T02:55:08.108Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T02:56:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:57:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:58:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T02:59:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:00:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:00:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T03:00:00.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"8beec969-f7e9-4178-b0fc-b4026d24ed57"}
+2025-12-11T03:00:00.009Z [info][Jobs]: Starting scheduled job: Radarr Scan 
+2025-12-11T03:00:00.009Z [info][Radarr Scan]: Scan starting {"sessionId":"a1f5916a-5bdc-462d-accf-4fb7547d1947"}
+2025-12-11T03:00:00.009Z [debug][Radarr Scan]: Sync not enabled. Skipping Radarr server: Radarr 
+2025-12-11T03:00:00.009Z [info][Radarr Scan]: Radarr scan complete 
+2025-12-11T03:00:00.010Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T03:00:00.108Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T03:00:00.124Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T03:00:04.128Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T03:00:04.174Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T03:00:08.175Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T03:01:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:02:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:03:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:04:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:05:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:05:00.027Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T03:05:00.027Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"1e9bed08-574d-4a4a-8b0a-a381c8e9ca7b"}
+2025-12-11T03:05:00.029Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T03:05:00.043Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T03:05:00.044Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T03:05:04.047Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T03:05:04.126Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T03:05:08.128Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T03:06:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:07:00.025Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:08:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:09:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:10:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:10:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T03:10:00.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"4609d590-aaaa-44c4-93c1-a372620ec8c7"}
+2025-12-11T03:10:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T03:10:00.105Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T03:10:00.106Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T03:10:04.110Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T03:10:04.164Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T03:10:08.166Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T03:11:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:12:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:13:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:14:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:15:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:15:00.026Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T03:15:00.027Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"5cd63776-36c6-4f79-ba4d-6e0589fa801f"}
+2025-12-11T03:15:00.028Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T03:15:00.041Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T03:15:00.042Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T03:15:04.044Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T03:15:04.097Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T03:15:08.099Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T03:16:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:17:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:18:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:19:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:20:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:20:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T03:20:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"6c8d1ab7-ff5d-468d-8f44-f840aee422cc"}
+2025-12-11T03:20:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T03:20:00.099Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T03:20:00.105Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T03:20:04.108Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T03:20:04.152Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T03:20:08.154Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T03:21:00.025Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:22:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:23:00.025Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:24:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:25:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:25:00.027Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T03:25:00.027Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"0d66e69f-40b0-48fd-9bf8-8437f039c7d2"}
+2025-12-11T03:25:00.029Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T03:25:00.044Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T03:25:00.044Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T03:25:04.047Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T03:25:04.115Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T03:25:08.117Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T03:26:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:27:00.025Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:28:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:29:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:30:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:30:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T03:30:00.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"a8a53cf0-27b2-4219-91c9-33fb105d314c"}
+2025-12-11T03:30:00.010Z [info][Jobs]: Starting scheduled job: Sonarr Scan 
+2025-12-11T03:30:00.010Z [info][Sonarr Scan]: Scan starting {"sessionId":"84c0a445-a67c-401a-aeed-5bd938c9db44"}
+2025-12-11T03:30:00.010Z [debug][Sonarr Scan]: Sync not enabled. Skipping Sonarr server: Sonarr 
+2025-12-11T03:30:00.010Z [info][Sonarr Scan]: Sonarr scan complete 
+2025-12-11T03:30:00.011Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T03:30:00.120Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T03:30:00.120Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T03:30:04.124Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T03:30:04.170Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T03:30:08.172Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T03:31:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:32:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:33:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:34:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:35:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:35:00.005Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T03:35:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"088c7389-2031-4a2f-961d-21f01e56786b"}
+2025-12-11T03:35:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T03:35:00.020Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T03:35:00.021Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T03:35:04.023Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T03:35:04.059Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T03:35:08.060Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T03:36:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:37:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:38:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:39:00.025Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:40:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:40:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T03:40:00.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"e0903a5b-4d9d-43b9-8834-c356e61f8beb"}
+2025-12-11T03:40:00.009Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T03:40:00.094Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T03:40:00.100Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T03:40:04.104Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T03:40:04.169Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T03:40:08.171Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T03:41:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:42:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:43:00.025Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:44:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:45:00.025Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:45:00.026Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T03:45:00.026Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"f66171b2-cd5c-437c-8793-d4ee53d8f896"}
+2025-12-11T03:45:00.028Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T03:45:00.042Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T03:45:00.042Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T03:45:04.046Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T03:45:04.081Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T03:45:08.084Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T03:46:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:47:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:48:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:49:00.023Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:50:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:50:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T03:50:00.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"6fc4c8a1-d895-449e-9718-443e54dc715c"}
+2025-12-11T03:50:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T03:50:00.103Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T03:50:00.112Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T03:50:04.116Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T03:50:04.158Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T03:50:08.160Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T03:51:00.025Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:52:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:53:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:54:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:55:00.025Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:55:00.026Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T03:55:00.026Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"5c61eb64-36e2-426e-a4d4-b08f1cbfdb5d"}
+2025-12-11T03:55:00.028Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T03:55:00.037Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T03:55:00.040Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T03:55:04.044Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T03:55:04.097Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T03:55:08.099Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T03:56:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:57:00.025Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:58:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T03:59:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:00:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:00:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T04:00:00.008Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"fffce10c-bb6f-4d6e-a3c9-54c4c8ccd132"}
+2025-12-11T04:00:00.014Z [info][Jobs]: Starting scheduled job: Media Availability Sync 
+2025-12-11T04:00:00.015Z [info][Availability Sync]: Starting availability sync... 
+2025-12-11T04:00:00.019Z [info][Jobs]: Starting scheduled job: Image Cache Cleanup 
+2025-12-11T04:00:00.038Z [error][Image Cache]: ENOENT: no such file or directory, scandir '/app/config/cache/images/tmdb' 
+2025-12-11T04:00:00.038Z [info][Image Cache]: Cleared 0 stale image(s) from cache 'tmdb' 
+2025-12-11T04:00:00.039Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T04:00:00.047Z [info][Image Cache]: Cleared 3 stale image(s) from cache 'avatar' 
+2025-12-11T04:00:00.060Z [info][AvailabilitySync]: The non-4K movie [TMDB ID 166428] still exists. Preventing removal. 
+2025-12-11T04:00:00.065Z [info][AvailabilitySync]: The non-4K show [TMDB ID 66732] still exists. Preventing removal. 
+2025-12-11T04:00:00.069Z [info][AvailabilitySync]: The non-4K movie [TMDB ID 533533] still exists. Preventing removal. 
+2025-12-11T04:00:00.073Z [info][AvailabilitySync]: The non-4K show [TMDB ID 37606] still exists. Preventing removal. 
+2025-12-11T04:00:00.078Z [info][AvailabilitySync]: The non-4K show [TMDB ID 35094] still exists. Preventing removal. 
+2025-12-11T04:00:00.079Z [info][Availability Sync]: Availability sync complete. 
+2025-12-11T04:00:00.131Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T04:00:00.131Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T04:00:04.134Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T04:00:04.195Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T04:00:08.197Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T04:01:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:02:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:03:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:04:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:05:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:05:00.025Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T04:05:00.025Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"c0c55704-b2a6-4fdd-a488-e6806acd6036"}
+2025-12-11T04:05:00.028Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T04:05:00.040Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T04:05:00.040Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T04:05:04.043Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T04:05:05.054Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T04:05:09.057Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T04:06:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:07:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:08:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:09:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:10:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:10:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T04:10:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"826fac07-75b8-4192-aac8-d7b07518e41a"}
+2025-12-11T04:10:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T04:10:00.105Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T04:10:00.105Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T04:10:04.109Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T04:10:04.156Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T04:10:08.158Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T04:11:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:12:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:13:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:14:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:15:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:15:00.024Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T04:15:00.024Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"03521265-73cc-4979-94c7-c95ca2e57c8c"}
+2025-12-11T04:15:00.026Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T04:15:00.039Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T04:15:00.039Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T04:15:04.042Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T04:15:05.045Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T04:15:09.047Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T04:16:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:17:00.025Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:18:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:19:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:20:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:20:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T04:20:00.008Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"662890d4-cee8-4ace-978b-219ac726f1a7"}
+2025-12-11T04:20:00.010Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T04:20:00.119Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T04:20:00.120Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T04:20:04.124Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T04:20:04.170Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T04:20:08.172Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T04:21:00.025Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:22:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:23:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:24:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:25:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:25:00.025Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T04:25:00.025Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"8fa73c2d-1be5-48e1-80ef-060562a6a988"}
+2025-12-11T04:25:00.026Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T04:25:00.039Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T04:25:00.039Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T04:25:04.042Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T04:25:04.089Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T04:25:08.090Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T04:26:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:27:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:28:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:29:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:30:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:30:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T04:30:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"2494ac34-cf98-4cb6-8170-eacd82b28838"}
+2025-12-11T04:30:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T04:30:00.111Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T04:30:00.112Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T04:30:04.116Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T04:30:04.163Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T04:30:08.165Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T04:31:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:32:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:33:00.023Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:34:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:35:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:35:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T04:35:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"7d8bb455-984d-4a20-bc4b-177ffe8d9b9f"}
+2025-12-11T04:35:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T04:35:00.019Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T04:35:00.020Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T04:35:04.023Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T04:35:04.079Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T04:35:08.081Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T04:36:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:37:00.023Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:38:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:39:00.023Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:40:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:40:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T04:40:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"3ac98ad7-f3ef-4cc9-8a33-ddf8440ba480"}
+2025-12-11T04:40:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T04:40:00.101Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T04:40:00.102Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T04:40:04.105Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T04:40:04.155Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T04:40:08.157Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T04:41:00.023Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:42:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:43:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:44:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:45:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:45:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T04:45:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"e609680c-cf2a-431c-98c5-8013436d10c7"}
+2025-12-11T04:45:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T04:45:00.023Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T04:45:00.024Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T04:45:04.027Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T04:45:04.077Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T04:45:08.079Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T04:46:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:47:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:48:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:49:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:50:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:50:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T04:50:00.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"26705f31-50a1-479b-b002-f9f6b6339a56"}
+2025-12-11T04:50:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T04:50:00.109Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T04:50:00.110Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T04:50:04.113Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T04:50:04.153Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T04:50:08.154Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T04:51:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:52:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:53:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:54:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:55:00.023Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:55:00.024Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T04:55:00.024Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"521ddeda-a093-447b-b734-d08ad44f4589"}
+2025-12-11T04:55:00.026Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T04:55:00.041Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T04:55:00.042Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T04:55:04.045Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T04:55:04.097Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T04:55:08.098Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T04:56:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:57:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:58:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T04:59:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:00:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:00:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T05:00:00.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"6be45881-dd87-4ac3-ad86-6d9e86d8556b"}
+2025-12-11T05:00:00.011Z [info][Jobs]: Starting scheduled job: Jellyfin Full Scan 
+2025-12-11T05:00:00.012Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"a17f0be9-282b-47fc-a83f-567c3aeabfda"}
+2025-12-11T05:00:00.015Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T05:00:00.017Z [info][Jellyfin Sync]: Beginning to process library: Movies 
+2025-12-11T05:00:00.127Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T05:00:00.127Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T05:00:00.127Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T05:00:00.127Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T05:00:04.131Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T05:00:04.133Z [info][Jellyfin Sync]: Beginning to process library: Shows 
+2025-12-11T05:00:04.219Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T05:00:04.226Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T05:00:04.229Z [debug][Jellyfin Sync]: Updating existing title: Stranger Things 
+2025-12-11T05:00:04.232Z [debug][Jellyfin Sync]: Updating existing title: The Amazing World of Gumball 
+2025-12-11T05:00:08.221Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T05:00:08.233Z [info][Jellyfin Sync]: Full Scan Complete 
+2025-12-11T05:01:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:02:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:03:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:04:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:05:00.023Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:05:00.024Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T05:05:00.025Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"e95a7dde-8f35-4c73-b4be-e6c2cd104526"}
+2025-12-11T05:05:00.026Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T05:05:00.041Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T05:05:00.041Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T05:05:04.045Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T05:05:04.086Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T05:05:08.088Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T05:06:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:07:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:08:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:09:00.023Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:10:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:10:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T05:10:00.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"dd0c31bc-0f60-4a7c-a0a9-6c8b249b32f9"}
+2025-12-11T05:10:00.009Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T05:10:00.091Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T05:10:00.112Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T05:10:04.114Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T05:10:04.157Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T05:10:08.158Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T05:11:00.023Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:12:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:13:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:14:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:15:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:15:00.005Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T05:15:00.005Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"52284d50-7436-4fa0-b820-a581a8ec7a82"}
+2025-12-11T05:15:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T05:15:00.017Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T05:15:00.019Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T05:15:04.022Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T05:15:04.082Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T05:15:08.083Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T05:16:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:17:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:18:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:19:00.023Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:20:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:20:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T05:20:00.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"aae6bdc0-c9e7-4856-979b-812862e796bc"}
+2025-12-11T05:20:00.009Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T05:20:00.176Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T05:20:00.176Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T05:20:04.180Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T05:20:04.235Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T05:20:08.235Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T05:21:00.023Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:22:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:23:00.023Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:24:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:25:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:25:00.005Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T05:25:00.005Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"aa20ef76-31a1-4e91-8ac1-fa5a6cb4ffd0"}
+2025-12-11T05:25:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T05:25:00.018Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T05:25:00.019Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T05:25:04.023Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T05:25:04.064Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T05:25:08.065Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T05:26:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:27:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:28:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:29:00.023Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:30:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:30:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T05:30:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"613d4717-f352-417e-8dc0-b0f9ad3fb82c"}
+2025-12-11T05:30:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T05:30:00.089Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T05:30:00.093Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T05:30:04.096Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T05:30:04.140Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T05:30:08.141Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T05:31:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:32:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:33:00.023Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:34:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:35:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:35:00.024Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T05:35:00.024Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"264f9555-316e-488b-a22c-6ca601d36b6b"}
+2025-12-11T05:35:00.026Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T05:35:00.036Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T05:35:00.039Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T05:35:04.043Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T05:35:04.106Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T05:35:08.109Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T05:36:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:37:00.018Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:38:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:39:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:40:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:40:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T05:40:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"83f592b8-2844-431e-b713-b348ae78da31"}
+2025-12-11T05:40:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T05:40:00.113Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T05:40:00.123Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T05:40:04.126Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T05:40:04.169Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T05:40:08.171Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T05:41:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:42:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:43:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:44:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:45:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:45:00.024Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T05:45:00.024Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"06e4f733-95f4-48fb-9573-2d72c8b27b76"}
+2025-12-11T05:45:00.026Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T05:45:00.039Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T05:45:00.040Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T05:45:04.042Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T05:45:04.093Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T05:45:08.095Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T05:46:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:47:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:48:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:49:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:50:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:50:00.005Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T05:50:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"14b49f33-6731-4f27-8186-b4f7222ef36e"}
+2025-12-11T05:50:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T05:50:00.118Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T05:50:00.118Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T05:50:04.122Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T05:50:04.175Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T05:50:08.176Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T05:51:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:52:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:53:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:54:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:55:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:55:00.018Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T05:55:00.018Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"18a6b9f8-999a-4d01-b289-36b00d1af0db"}
+2025-12-11T05:55:00.020Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T05:55:00.032Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T05:55:00.033Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T05:55:04.035Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T05:55:04.105Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T05:55:08.107Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T05:56:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:57:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:58:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T05:59:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:00:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:00:00.005Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T06:00:00.005Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"a8d11d56-a4ba-4e88-92d1-a3d373d2e8f5"}
+2025-12-11T06:00:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T06:00:00.104Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T06:00:00.108Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T06:00:04.111Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T06:00:04.161Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T06:00:08.164Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T06:01:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:02:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:03:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:04:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:05:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:05:00.022Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T06:05:00.023Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"3a92f76b-9f6f-4325-8c22-4a07202967c4"}
+2025-12-11T06:05:00.024Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T06:05:00.037Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T06:05:00.037Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T06:05:04.039Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T06:05:04.102Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T06:05:08.104Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T06:06:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:07:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:08:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:09:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:10:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:10:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T06:10:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"8ab14fa0-087e-4e92-b84c-6d3f76a6c4cf"}
+2025-12-11T06:10:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T06:10:00.131Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T06:10:00.131Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T06:10:04.136Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T06:10:04.187Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T06:10:08.189Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T06:11:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:12:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:13:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:14:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:15:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:15:00.022Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T06:15:00.022Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"1db84872-2345-432c-aa85-3ce83b5a6bee"}
+2025-12-11T06:15:00.024Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T06:15:00.037Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T06:15:00.038Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T06:15:04.040Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T06:15:04.105Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T06:15:08.107Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T06:16:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:17:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:18:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:19:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:20:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:20:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T06:20:00.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"33ca77cf-143d-48da-a493-fcf19f47e34d"}
+2025-12-11T06:20:00.012Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T06:20:00.118Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T06:20:00.118Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T06:20:04.122Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T06:20:04.166Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T06:20:08.168Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T06:21:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:22:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:23:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:24:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:25:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:25:00.027Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T06:25:00.027Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"86bb9299-0871-47b5-b848-3a05b124e43c"}
+2025-12-11T06:25:00.032Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T06:25:00.054Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T06:25:00.054Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T06:25:04.057Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T06:25:04.122Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T06:25:08.124Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T06:26:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:27:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:28:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:29:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:30:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:30:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T06:30:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"4c4942bb-b314-4fb6-adbf-0abe51f8a39a"}
+2025-12-11T06:30:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T06:30:00.104Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T06:30:00.104Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T06:30:04.108Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T06:30:04.146Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T06:30:08.148Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T06:31:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:32:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:33:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:34:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:35:00.023Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:35:00.025Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T06:35:00.025Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"747b08c1-0f1d-4245-81e4-9e50fea54e27"}
+2025-12-11T06:35:00.027Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T06:35:00.042Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T06:35:00.047Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T06:35:04.051Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T06:35:04.110Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T06:35:08.112Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T06:36:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:37:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:38:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:39:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:40:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:40:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T06:40:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"7a7b793f-c506-49a7-96cb-b1f3b1fcdb38"}
+2025-12-11T06:40:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T06:40:00.105Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T06:40:00.105Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T06:40:04.109Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T06:40:04.159Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T06:40:08.160Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T06:41:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:42:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:43:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:44:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:45:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:45:00.022Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T06:45:00.022Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"d30cb0ac-57d6-49c6-9873-9983529ce384"}
+2025-12-11T06:45:00.024Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T06:45:00.036Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T06:45:00.037Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T06:45:04.039Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T06:45:04.101Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T06:45:08.103Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T06:46:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:47:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:48:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:49:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:50:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:50:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T06:50:00.009Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"5c36c825-1d1a-449a-beb8-232012ed0bec"}
+2025-12-11T06:50:00.010Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T06:50:00.133Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T06:50:00.134Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T06:50:04.138Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T06:50:04.185Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T06:50:08.187Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T06:51:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:52:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:53:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:54:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:55:00.019Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:55:00.021Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T06:55:00.021Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"0535591f-3c4d-4303-a1f8-836205357f15"}
+2025-12-11T06:55:00.022Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T06:55:00.038Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T06:55:00.039Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T06:55:04.042Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T06:55:04.092Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T06:55:08.094Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T06:56:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:57:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:58:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T06:59:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:00:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:00:00.005Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T07:00:00.005Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"63304926-7826-4684-9e48-4bb28866dbd5"}
+2025-12-11T07:00:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T07:00:00.114Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T07:00:00.115Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T07:00:04.119Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T07:00:04.171Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T07:00:08.173Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T07:01:00.019Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:02:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:03:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:04:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:05:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:05:00.005Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T07:05:00.005Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"48472935-3160-41c0-9f5d-eae96581c46d"}
+2025-12-11T07:05:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T07:05:00.018Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T07:05:00.019Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T07:05:04.023Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T07:05:04.076Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T07:05:08.078Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T07:06:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:07:00.018Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:08:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:09:00.019Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:10:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:10:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T07:10:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"46b83cdf-a09c-45fb-b9d6-6ad01ded980d"}
+2025-12-11T07:10:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T07:10:00.121Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T07:10:00.122Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T07:10:04.125Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T07:10:04.167Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T07:10:08.169Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T07:11:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:12:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:13:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:14:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:15:00.019Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:15:00.020Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T07:15:00.020Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"c9abf109-60a4-4408-ab36-1070941c8c41"}
+2025-12-11T07:15:00.022Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T07:15:00.032Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T07:15:00.035Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T07:15:04.038Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T07:15:04.093Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T07:15:08.095Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T07:16:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:17:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:18:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:19:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:20:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:20:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T07:20:00.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"ee6a680e-f9f8-4acc-a8f7-39b8cb0b7952"}
+2025-12-11T07:20:00.009Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T07:20:00.103Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T07:20:00.109Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T07:20:04.111Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T07:20:04.174Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T07:20:08.175Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T07:21:00.018Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:22:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:23:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:24:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:25:00.018Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:25:00.020Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T07:25:00.020Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"dcc1107c-d4fe-43a6-a891-225ef8704096"}
+2025-12-11T07:25:00.022Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T07:25:00.032Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T07:25:00.035Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T07:25:04.039Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T07:25:04.096Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T07:25:08.099Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T07:26:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:27:00.019Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:28:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:29:00.019Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:30:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:30:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T07:30:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"4b208549-bf4f-427a-9271-c0b0bbb1c62e"}
+2025-12-11T07:30:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T07:30:00.099Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T07:30:00.120Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T07:30:04.123Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T07:30:04.167Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T07:30:08.169Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T07:31:00.019Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:32:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:33:00.019Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:34:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:35:00.019Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:35:00.020Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T07:35:00.020Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"60b08034-f849-4748-8a79-0f11c39531e6"}
+2025-12-11T07:35:00.022Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T07:35:00.035Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T07:35:00.035Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T07:35:04.039Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T07:35:04.122Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T07:35:08.124Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T07:36:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:37:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:38:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:39:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:40:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:40:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T07:40:00.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"b07b4e89-f5fa-4685-8290-9847080d84b3"}
+2025-12-11T07:40:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T07:40:00.109Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T07:40:00.109Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T07:40:04.113Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T07:40:04.174Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T07:40:08.175Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T07:41:00.019Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:42:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:43:00.019Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:44:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:45:00.018Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:45:00.019Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T07:45:00.019Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"3b8356af-1ee7-4aea-9df7-6521df774a89"}
+2025-12-11T07:45:00.022Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T07:45:00.036Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T07:45:00.037Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T07:45:04.040Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T07:45:04.114Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T07:45:08.117Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T07:46:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:47:00.018Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:48:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:49:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:50:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:50:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T07:50:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"5f0dcae9-3d1f-4dfb-afed-0a9b8d483225"}
+2025-12-11T07:50:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T07:50:00.106Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T07:50:00.106Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T07:50:04.110Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T07:50:04.154Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T07:50:08.156Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T07:51:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:52:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:53:00.018Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:54:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:55:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:55:00.018Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T07:55:00.018Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"7daa50ca-f9a8-4305-b3e3-94a2e96f62ad"}
+2025-12-11T07:55:00.019Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T07:55:00.031Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T07:55:00.032Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T07:55:04.033Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T07:55:04.072Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T07:55:08.074Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T07:56:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:57:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:58:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T07:59:00.018Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T08:00:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T08:00:00.005Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T08:00:00.005Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"0896a2d0-1d4f-4569-a501-7071fdca0d2a"}
+2025-12-11T08:00:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T08:00:00.104Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T08:00:00.104Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T08:00:04.107Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T08:00:04.156Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T08:00:08.159Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T08:01:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T08:02:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T08:03:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T08:04:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T08:05:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T08:05:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-12-11T08:05:00.006Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"950d3566-d14b-4d7a-86d6-6eb029cbf2b0"}
+2025-12-11T08:05:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-12-11T08:05:00.021Z [debug][Jellyfin Sync]: Title already exists and no new media types found TRON: Ares 
+2025-12-11T08:05:00.022Z [debug][Jellyfin Sync]: Title already exists and no new media types found How to Train Your Dragon: The Hidden World 
+2025-12-11T08:05:04.026Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-12-11T08:05:04.103Z [debug][Jellyfin Sync]: Updating existing title: Wild Kratts 
+2025-12-11T08:05:08.103Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-12-11T08:06:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T08:07:00.018Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-12-11T08:08:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 

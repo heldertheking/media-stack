@@ -1,0 +1,161 @@
+services:
+  # ============================================
+  # SABNZBD - Usenet Downloader
+  # ============================================
+  sabnzbd:
+    image: lscr.io/linuxserver/sabnzbd:latest
+    container_name: sabnzbd
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - ${CONFIG_DIR}/sabnzbd:/config
+      - ${DOWNLOADS_DIR}:/downloads
+      - ${SCRIPTS_DIR}:/scripts:ro
+    ports:
+      - "8080:8080"
+    networks:
+      - media-net
+    restart: unless-stopped
+
+  # ============================================
+  # PROWLARR - Indexer Manager
+  # ============================================
+  prowlarr:
+    image: lscr.io/linuxserver/prowlarr:latest
+    container_name: prowlarr
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - ${CONFIG_DIR}/prowlarr:/config
+    ports:
+      - "9696:9696"
+    networks:
+      - media-net
+    restart: unless-stopped
+
+  # ============================================
+  # RADARR - Movie Manager
+  # ============================================
+  radarr:
+    image: lscr.io/linuxserver/radarr:latest
+    container_name: radarr
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - ${CONFIG_DIR}/radarr:/config
+      - ${MEDIA_DIR}:/media
+      - ${DOWNLOADS_DIR}:/downloads
+    ports:
+      - "7878:7878"
+    networks:
+      - media-net
+    restart: unless-stopped
+    depends_on:
+      - sabnzbd
+      - prowlarr
+
+  # ============================================
+  # SONARR - TV Show Manager
+  # ============================================
+  sonarr:
+    image: lscr.io/linuxserver/sonarr:latest
+    container_name: sonarr
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - ${CONFIG_DIR}/sonarr:/config
+      - ${MEDIA_DIR}:/media
+      - ${DOWNLOADS_DIR}:/downloads
+    ports:
+      - "8989:8989"
+    networks:
+      - media-net
+    restart: unless-stopped
+    depends_on:
+      - sabnzbd
+      - prowlarr
+
+  # ============================================
+  # BAZARR - Subtitle Manager
+  # ============================================
+  bazarr:
+    image: lscr.io/linuxserver/bazarr:latest
+    container_name: bazarr
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - ${CONFIG_DIR}/bazarr:/config
+      - ${MEDIA_DIR}:/media
+      - ${DOWNLOADS_DIR}:/downloads
+    ports:
+      - "6767:6767" # optional if using Traefik
+    networks:
+      - media-net
+    restart: unless-stopped
+    depends_on:
+      - sonarr
+      - radarr
+
+  # ============================================
+  # JELLYFIN - Media Server
+  # ============================================
+  jellyfin:
+    image: lscr.io/linuxserver/jellyfin:latest
+    container_name: jellyfin
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - ${CONFIG_DIR}/jellyfin:/config
+      - ${MEDIA_DIR}:/media
+    networks:
+      - media-net
+      - proxy-net
+    restart: unless-stopped
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.jellyfin.rule=Host(`jellyfin.example.com`)"
+      - "traefik.http.routers.jellyfin.entrypoints=web"
+      - "traefik.http.services.jellyfin.loadbalancer.server.port=8096"
+      - "traefik.docker.network=proxy-net"
+
+  # ============================================
+  # JELLYSEERR - Request Manager for Jellyfin
+  # ============================================
+  jellyseerr:
+    image: fallenbagel/jellyseerr:latest
+    container_name: jellyseerr
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - ${CONFIG_DIR}/jellyseerr:/app/config
+    networks:
+      - media-net
+      - proxy-net
+    restart: unless-stopped
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.jellyseerr.rule=Host(`jellyseerr.example.com`)"
+      - "traefik.http.routers.jellyseerr.entrypoints=web"
+      - "traefik.http.services.jellyseerr.loadbalancer.server.port=5055"
+      - "traefik.docker.network=proxy-net"
+
+networks:
+  proxy-net:
+    external: true
+  media-net:
+    name: media-net
+    driver: bridge

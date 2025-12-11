@@ -1,0 +1,45 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "/app/config/logs/.4295fcfc416647ffc3751a1d488b45a096cf2d4f-audit.json",
+    "files": [
+        {
+            "date": 1764889200014,
+            "name": "/app/config/logs/jellyseerr-2025-12-05.log",
+            "hash": "5b207fed48ac87ee8b6c64d8b0cbcf8e9367db67b0194cc48507b0fbe33ce2f4"
+        },
+        {
+            "date": 1764975600005,
+            "name": "/app/config/logs/jellyseerr-2025-12-06.log",
+            "hash": "a971cfaad2949e3f7fe9bdd5c41713cae3b4d617dc70fe044f792ae8727266c0"
+        },
+        {
+            "date": 1765062000022,
+            "name": "/app/config/logs/jellyseerr-2025-12-07.log",
+            "hash": "f068de4cab0701bfecf63b9ba19afb8682a97554a16fc2d6a630826043970d96"
+        },
+        {
+            "date": 1765148400005,
+            "name": "/app/config/logs/jellyseerr-2025-12-08.log",
+            "hash": "65aa0827357963d9607393ed256cd5cc141a28e9d2a277bd9fd55098b53dedb3"
+        },
+        {
+            "date": 1765234800025,
+            "name": "/app/config/logs/jellyseerr-2025-12-09.log",
+            "hash": "9356aec05ad0d48b0074606d1db76fff353076177c30be7991d305da8ee477dc"
+        },
+        {
+            "date": 1765321200022,
+            "name": "/app/config/logs/jellyseerr-2025-12-10.log",
+            "hash": "2950822584772c3bc98f7222817a8a50476e10ef3e15be11a1dd82862cfc784d"
+        },
+        {
+            "date": 1765407600030,
+            "name": "/app/config/logs/jellyseerr-2025-12-11.log",
+            "hash": "b597c900f24311b1463e359303761cc3883222079089a9e5fbe7092fb4e8cf31"
+        }
+    ],
+    "hashType": "sha256"
+}
